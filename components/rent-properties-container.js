@@ -11,7 +11,7 @@ const RentPropertiesContainer = () => {
                     <div className='self-stretch relative text-xl leading-[28px] font-body-regular-600 text-lightslategray text-center'>
                         Vestibulum ante ipsum primis in faucibus orci luctus et
                         ultrices posuere cubilia curae; Proin sodales ultrices
-                        nulla blandit volutpat.
+                        nulla blandit volutpat
                     </div>
                 </div>
                 <div className='self-stretch flex flex-row flex-wrap py-0 px-2.5 items-center justify-center gap-[32px]'>
